@@ -32,7 +32,7 @@
  去年8月末にリリース、登録者7000名以上 !！！ 
 </div>
 
- ![image](img/graspy.png)
+ ![image](graspy.png)
 
 ---
 
