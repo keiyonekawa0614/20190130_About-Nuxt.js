@@ -113,11 +113,13 @@ TODO
 
 Client側とServer側でCookieのライブラリを分けた  
 
+<div style="text-align: left;">
 Client  
 　→universal-cookieを使用  
 
 Server  
 　→cookie-universal-nuxtを使用  
+</div>
 
 +++ 
 
@@ -125,16 +127,29 @@ Server
 
 +++
 
+<div style="text-align: left;">
 結論から言うと、  
-
+<br>
 ・ client側はuniversal-cookieの方が使い勝手が良い  
 ・ server側はcookie-universal-nuxtの方が使い勝手が良い  
-
+<br>
 から  
+</div>
  
 +++
 
-cookieライブラリのラッパークラス
++++
+
+<div style="text-align: left;">
+universal-cookieの特徴
+ - new Cookies();として、client用のcookieをコードのどこでも取得できる
+ <br>
+cookie-universal-nuxtの特徴
+ - app.$cookiesという感じでvueのコンポーネントを必ず経由する形での取得になる
+
+</div>
+
+cookieライブラリのラッパークラスを作成
 
 ``` 
 import Cookies from 'universal-cookie';
@@ -145,6 +160,11 @@ export {
     ClientCookies,
     SSRCookies,
 };
+```
+使用する場合、明示的にserviceからimportするときに両者を分けるようにした
+
+```
+import { ClientCookies, SSRCookies } from '~/services/cookies';
 ```
 
 
