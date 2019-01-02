@@ -26,9 +26,13 @@
 
 ### Graspyサービス紹介
 
- **「学び」と「出会い」を作り出すキャリア形成プラットフォーム**
- 去年8月末にリリース、登録者7000名以上
- ![image](img/graspy.png)
+ **「学び」と「出会い」を作り出すキャリア形成プラットフォーム** 
+ 
+<div style="text-align: left;">
+ 去年8月末にリリース、登録者7000名以上 !！！ 
+</div>
+
+ ![image](https://github.com/keiyonekawa0614/20190130_slide/blob/master/img/graspy.png)
 
 ---
 
