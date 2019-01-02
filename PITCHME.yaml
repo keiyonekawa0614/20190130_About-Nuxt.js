@@ -5,6 +5,9 @@ theme : white
 #ロゴアイコンの設定
 logo : logo.png
 
+#css
+theme-override: css/PITCHME.css
+
 
 #フットノートの設定
 footnote : "© 2019 itpropartners Inc."
