@@ -16,10 +16,10 @@
 
 ### 自己紹介
 
- - Twitter: @keiuwk0614  
- - 経歴  
-  - 新卒で金融系SIerに入社→SES→去年4月にITプロパートナーズにJoin  
-  - 現在は、フロントをNuxt.js、サーバサイドをlaravelを使用し、自社プロダクト「Graspy」の開発に従事  
+- Twitter: @keiuwk0614  
+- 経歴  
+ - 新卒で金融系SIerに入社→SES→去年4月にITプロパートナーズにJoin  
+ - 現在は、フロントをNuxt.js、サーバサイドをlaravelを使用し、自社プロダクト「Graspy」の開発に従事  
 
 ---
 
