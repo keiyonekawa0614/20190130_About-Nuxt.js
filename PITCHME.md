@@ -141,13 +141,14 @@ Server
 +++
 
 <div style="text-align: left;">
-universal-cookieの特徴
- - new Cookies();として、client用のcookieをコードのどこでも取得できる
+** universal-cookieの特徴 **    
+ - new Cookies();として、client用のcookieをコードのどこでも取得できる  
  <br>
-cookie-universal-nuxtの特徴
- - app.$cookiesという感じでvueのコンポーネントを必ず経由する形での取得になる
-
+** cookie-universal-nuxtの特徴 **   
+ - app.$cookiesという感じでvueのコンポーネントを必ず経由する形での取得になる  
 </div>
+
++++
 
 cookieライブラリのラッパークラスを作成
 
