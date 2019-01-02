@@ -73,7 +73,7 @@
 
 +++
 
-<div style="text-align: right;">
+<div style="text-align: left;">
 課題  
 → Nuxt導入したのに、ページ遷移がめちゃくちゃ遅い   
 原因  
@@ -88,6 +88,7 @@
 
 +++
 
+<div style="text-align: left;">
 TODO  
 axiosのラッパークラスを作成  
 ↓  
@@ -96,6 +97,7 @@ HTTPリクエストURLをqueueに溜める
 queueに溜めたリクエストURLを1リクエストとしてサーバ側に送信  
 ↓  
 Laravel側で分散  
+</div>
 
 +++ 
 
