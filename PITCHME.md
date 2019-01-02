@@ -32,7 +32,7 @@
  去年8月末にリリース、登録者7000名以上 !！！ 
 </div>
 
- ![image](https://github.com/keiyonekawa0614/20190130_slide/blob/master/img/graspy.png)
+ ![image](img/graspy.png)
 
 ---
 
