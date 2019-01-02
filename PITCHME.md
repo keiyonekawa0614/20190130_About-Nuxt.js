@@ -16,7 +16,7 @@
 
 ### 1.自己紹介
 
-- Twitter: @keiuwk0614  
+- @size[3.5em](Twitter: @keiuwk0614)  
 - 所属: 株式会社ITプロパートナーズ
 - 金融系SIer出身、サーバサイドエンジニア(Java、PHP)
 - Nuxt(Vue)歴半年ぐらい
