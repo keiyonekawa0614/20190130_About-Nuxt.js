@@ -28,7 +28,7 @@
 
 「学び」と「出会い」を作り出すキャリア形成プラットフォーム
 
-<img src="img/graspy1.png" width="800" height="500"/>
+<img src="img/graspy1.png" width="600" height="300"/>
 
 ---
 
