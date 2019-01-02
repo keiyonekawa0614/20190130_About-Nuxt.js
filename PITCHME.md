@@ -42,7 +42,9 @@
 - vue-router: pagesディレクトリに*.vueファイルを配置することで、自動でルーティングの定義をしてくれる |
 - axios: axiosモジュールが用意されており、nuxt.config.jsにbaseURL等のオプションを容易に設定することができる | 
 
-** Vue使うならNuxt使った方が良い！！ ** |
++++ 
+
+** Vue使うならNuxt使った方が良い！！ ** 
 
 +++
 
@@ -71,9 +73,9 @@
 
 +++
 
-課題: Nuxt導入したのに、ページ遷移がめちゃくちゃ遅い | 
-原因: 1ページ内で複数のAPIを呼びすぎており、HTTPリクエストに時間がかかっている | 
-解決策: フロント側で複数のHTTPリクエストを纏めて、1リクエストとしてAPIを呼び出すようにした | 
+課題: Nuxt導入したのに、ページ遷移がめちゃくちゃ遅い  
+原因: 1ページ内で複数のAPIを呼びすぎており、HTTPリクエストに時間がかかっている  
+解決策: フロント側で複数のHTTPリクエストを纏めて、1リクエストとしてAPIを呼び出すようにした  
 
 +++
 
@@ -81,20 +83,20 @@
 
 +++
 
-TODO
-axiosのラッパークラスを作成
-↓
-HTTPリクエストURLをqueueに溜める
-↓
-queueに溜めたリクエストURLを1リクエストとしてサーバ側に送信
-↓
-Laravel側で分散
+TODO  
+axiosのラッパークラスを作成  
+↓  
+HTTPリクエストURLをqueueに溜める  
+↓  
+queueに溜めたリクエストURLを1リクエストとしてサーバ側に送信  
+↓  
+Laravel側で分散  
 
 +++ 
 
-TODO
-どのくらい効果があったか
-何秒から何秒に縮まり、速度改善した
+TODO  
+どのくらい効果があったか  
+何秒から何秒に縮まり、速度改善した  
 
 +++
 
@@ -102,13 +104,13 @@ TODO
 
 +++
 
-Client側とServer側でCookieのライブラリを分けた
+Client側とServer側でCookieのライブラリを分けた  
 
-Client
-　→universal-cookieを使用
+Client  
+　→universal-cookieを使用  
 
-Server
-　→cookie-universal-nuxtを使用
+Server  
+　→cookie-universal-nuxtを使用  
 
 +++ 
 
@@ -116,12 +118,12 @@ Server
 
 +++
 
-結論から言うと、
+結論から言うと、  
 
-・ client側はuniversal-cookieの方が使い勝手が良い
-・ server側はcookie-universal-nuxtの方が使い勝手が良い
+・ client側はuniversal-cookieの方が使い勝手が良い  
+・ server側はcookie-universal-nuxtの方が使い勝手が良い  
 
-から
+から  
  
 +++
 
