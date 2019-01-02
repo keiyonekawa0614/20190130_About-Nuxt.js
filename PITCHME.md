@@ -26,9 +26,7 @@
 
 ### Graspyサービス紹介
 
-<img src="graspy.png"/>
- ![image](graspy.png)
- ![image2](img/graspy.png)
+ ![image](img/graspy.png)
 
 ---
 
