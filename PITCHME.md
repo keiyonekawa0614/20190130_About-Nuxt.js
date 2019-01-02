@@ -26,8 +26,9 @@
 
 ### Graspyサービス紹介
 
-<img src="img/graspy1.png"/>
- ![image](img/graspy1.png)
+「学び」と「出会い」を作り出すキャリア形成プラットフォーム
+
+<img src="img/graspy1.png" width="800" height="500"/>
 
 ---
 
